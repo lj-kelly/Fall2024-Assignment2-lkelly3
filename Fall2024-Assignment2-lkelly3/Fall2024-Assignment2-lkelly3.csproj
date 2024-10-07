@@ -7,4 +7,9 @@
     <RootNamespace>Fall2024_Assignment2_lkelly3</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="jQuery" Version="3.7.1" />
+    <PackageReference Include="jQuery.Validation" Version="1.21.0" />
+  </ItemGroup>
+
 </Project>

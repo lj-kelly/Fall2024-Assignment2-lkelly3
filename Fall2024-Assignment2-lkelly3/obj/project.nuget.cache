@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "axSHqAqv3LY=",
+  "dgSpecHash": "7O9IuCx5I+Q=",
   "success": true,
   "projectFilePath": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\Fall2024-Assignment2-lkelly3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\daved\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\daved\\.nuget\\packages\\jquery.validation\\1.21.0\\jquery.validation.1.21.0.nupkg.sha512"
+  ],
   "logs": []
 }
