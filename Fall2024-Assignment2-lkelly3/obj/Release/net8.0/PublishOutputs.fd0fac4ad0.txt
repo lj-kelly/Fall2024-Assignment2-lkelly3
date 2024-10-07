@@ -1,0 +1,7 @@
+C:\Comp Sci\CS330\P2\Fall2024-Assignment2-lkelly3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-lkelly3.exe
+C:\Comp Sci\CS330\P2\Fall2024-Assignment2-lkelly3\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Comp Sci\CS330\P2\Fall2024-Assignment2-lkelly3\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Comp Sci\CS330\P2\Fall2024-Assignment2-lkelly3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-lkelly3.dll
+C:\Comp Sci\CS330\P2\Fall2024-Assignment2-lkelly3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-lkelly3.deps.json
+C:\Comp Sci\CS330\P2\Fall2024-Assignment2-lkelly3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-lkelly3.runtimeconfig.json
+C:\Comp Sci\CS330\P2\Fall2024-Assignment2-lkelly3\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment2-lkelly3.pdb

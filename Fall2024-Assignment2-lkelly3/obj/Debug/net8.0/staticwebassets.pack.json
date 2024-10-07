@@ -17,8 +17,16 @@
       "PackagePath": "staticwebassets\\__MACOSX\\._style.css"
     },
     {
+      "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\bluefoot.jpg",
+      "PackagePath": "staticwebassets\\bluefoot.jpg"
+    },
+    {
       "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\falcon.jpeg",
+      "PackagePath": "staticwebassets\\falcon.jpeg"
     },
     {
       "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\favicon.ico",
@@ -259,6 +267,18 @@
     {
       "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\osprey.jpeg",
+      "PackagePath": "staticwebassets\\osprey.jpeg"
+    },
+    {
+      "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\redfoot.jpg",
+      "PackagePath": "staticwebassets\\redfoot.jpg"
+    },
+    {
+      "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\redfoot2.jpg",
+      "PackagePath": "staticwebassets\\redfoot2.jpg"
     },
     {
       "Id": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\script.js",

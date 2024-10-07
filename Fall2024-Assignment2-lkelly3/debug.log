@@ -241,3 +241,33 @@
 [1007/115334.256:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
 [1007/115400.788:INFO:CONSOLE(8)] "Search Button clicked", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (8)
 [1007/115406.707:INFO:CONSOLE(8)] "Search Button clicked", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (8)
+[1007/125707.455:INFO:CONSOLE(8)] "Search Button clicked", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (8)
+[1007/125740.318:INFO:CONSOLE(8)] "Search Button clicked", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (8)
+[1007/131304.398:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1007/131310.444:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1007/131316.385:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1007/131316.738:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1007/132224.245:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected identifier", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (90)
+[1007/132225.810:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected identifier", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (90)
+[1007/132226.821:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected identifier", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (90)
+[1007/132227.023:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected identifier", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (90)
+[1007/132850.364:INFO:CONSOLE(15)] "weather data received", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (15)
+[1007/132850.364:INFO:CONSOLE(16)] "[object Object]", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (16)
+[1007/132905.654:INFO:CONSOLE(15)] "weather data received", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (15)
+[1007/132905.654:INFO:CONSOLE(16)] "[object Object]", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (16)
+[1007/132917.280:INFO:CONSOLE(15)] "weather data received", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (15)
+[1007/132917.280:INFO:CONSOLE(16)] "[object Object]", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (16)
+[1007/132927.938:INFO:CONSOLE(9)] "Search Button clicked", source: file:///C:/Comp%20Sci/CS330/P2/Fall2024-Assignment2-lkelly3/wwwroot/script.js (9)
+[1007/133212.353:INFO:CONSOLE(15)] "weather data received", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (15)
+[1007/133212.353:INFO:CONSOLE(16)] "[object Object]", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (16)
+[1007/133222.037:INFO:CONSOLE(15)] "weather data received", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (15)
+[1007/133222.037:INFO:CONSOLE(16)] "[object Object]", source: file:///C:/Comp%20Sci/CS330/Lecture%20Notes/jQuery/7B-jQuery-AJAX-Weather.html (16)
+[1007/140827.235:INFO:CONSOLE(2)] "Uncaught Error: cannot call methods on dialog prior to initialization; attempted to call method 'Red-footed booby'", source: https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js (2)
+[1007/140828.564:INFO:CONSOLE(2)] "Uncaught Error: cannot call methods on dialog prior to initialization; attempted to call method 'Red-footed booby'", source: https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js (2)
+[1007/140829.354:INFO:CONSOLE(2)] "Uncaught Error: cannot call methods on dialog prior to initialization; attempted to call method 'Red-footed booby'", source: https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js (2)
+[1007/140831.252:INFO:CONSOLE(2)] "Uncaught Error: cannot call methods on dialog prior to initialization; attempted to call method 'Red-footed booby'", source: https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js (2)
+[1007/141620.156:INFO:CONSOLE(12)] "This page is using the deprecated ResourceLoader module "mediawiki.Uri".
+[1.43] Please use browser native URL.", source: https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022 (12)
+[1007/141623.140:INFO:CONSOLE(0)] "The resource https://en.wikipedia.org/static/images/project-logos/enwiki.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://en.wikipedia.org/wiki/WALL-E (0)
+[1007/141624.070:INFO:CONSOLE(12)] "This page is using the deprecated ResourceLoader module "mediawiki.Uri".
+[1.43] Please use browser native URL.", source: https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022 (12)

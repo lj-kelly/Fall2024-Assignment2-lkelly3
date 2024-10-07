@@ -7,27 +7,12 @@
       "RelativeMoniker": "D:0:0:{045BEAF2-E7ED-4D8F-8C69-A0B6B44BC2A3}|Fall2024-Assignment2-lkelly3.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{045BEAF2-E7ED-4D8F-8C69-A0B6B44BC2A3}|Fall2024-Assignment2-lkelly3.csproj|c:\\comp sci\\cs330\\p2\\fall2024-assignment2-lkelly3\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{045BEAF2-E7ED-4D8F-8C69-A0B6B44BC2A3}|Fall2024-Assignment2-lkelly3.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{045BEAF2-E7ED-4D8F-8C69-A0B6B44BC2A3}|Fall2024-Assignment2-lkelly3.csproj|c:\\comp sci\\cs330\\p2\\fall2024-assignment2-lkelly3\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{045BEAF2-E7ED-4D8F-8C69-A0B6B44BC2A3}|Fall2024-Assignment2-lkelly3.csproj|solutionrelative:wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\7D-jQuery-AJAX-Wikipedia.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\7B-jQuery-AJAX-Weather.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\3-jQuery-Detecting_A_Click.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\2C-jQuery-Using_jQuery_In_Your_Webpages.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\2B-jQuery-Using_jQuery_In_Your_Webpages.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{045BEAF2-E7ED-4D8F-8C69-A0B6B44BC2A3}|Fall2024-Assignment2-lkelly3.csproj|c:\\comp sci\\cs330\\p2\\fall2024-assignment2-lkelly3\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{045BEAF2-E7ED-4D8F-8C69-A0B6B44BC2A3}|Fall2024-Assignment2-lkelly3.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +32,7 @@
               "RelativeDocumentMoniker": "wwwroot\\index.html",
               "ToolTip": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-04T16:44:42.438Z",
               "IsPinned": true,
@@ -55,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\style.css",
               "RelativeDocumentMoniker": "wwwroot\\style.css",
               "ToolTip": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\style.css",
               "RelativeToolTip": "wwwroot\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-04T19:00:15.997Z",
               "IsPinned": true,
@@ -69,81 +54,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\script.js",
               "ToolTip": "C:\\Comp Sci\\CS330\\P2\\Fall2024-Assignment2-lkelly3\\wwwroot\\script.js",
               "RelativeToolTip": "wwwroot\\script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwEoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-10-04T18:43:08.608Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "7D-jQuery-AJAX-Wikipedia.html",
-              "DocumentMoniker": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\7D-jQuery-AJAX-Wikipedia.html",
-              "RelativeDocumentMoniker": "..\\..\\Lecture Notes\\jQuery\\7D-jQuery-AJAX-Wikipedia.html",
-              "ToolTip": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\7D-jQuery-AJAX-Wikipedia.html",
-              "RelativeToolTip": "..\\..\\Lecture Notes\\jQuery\\7D-jQuery-AJAX-Wikipedia.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-04T18:29:09.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "7B-jQuery-AJAX-Weather.html",
-              "DocumentMoniker": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\7B-jQuery-AJAX-Weather.html",
-              "RelativeDocumentMoniker": "..\\..\\Lecture Notes\\jQuery\\7B-jQuery-AJAX-Weather.html",
-              "ToolTip": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\7B-jQuery-AJAX-Weather.html",
-              "RelativeToolTip": "..\\..\\Lecture Notes\\jQuery\\7B-jQuery-AJAX-Weather.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-04T18:17:56.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "3-jQuery-Detecting_A_Click.html",
-              "DocumentMoniker": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\3-jQuery-Detecting_A_Click.html",
-              "RelativeDocumentMoniker": "..\\..\\Lecture Notes\\jQuery\\3-jQuery-Detecting_A_Click.html",
-              "ToolTip": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\3-jQuery-Detecting_A_Click.html",
-              "RelativeToolTip": "..\\..\\Lecture Notes\\jQuery\\3-jQuery-Detecting_A_Click.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-04T18:14:14.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "2C-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "DocumentMoniker": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\2C-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "RelativeDocumentMoniker": "..\\..\\Lecture Notes\\jQuery\\2C-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "ToolTip": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\2C-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "RelativeToolTip": "..\\..\\Lecture Notes\\jQuery\\2C-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-04T18:13:58.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "2B-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "DocumentMoniker": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\2B-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "RelativeDocumentMoniker": "..\\..\\Lecture Notes\\jQuery\\2B-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "ToolTip": "C:\\Comp Sci\\CS330\\Lecture Notes\\jQuery\\2B-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "RelativeToolTip": "..\\..\\Lecture Notes\\jQuery\\2B-jQuery-Using_jQuery_In_Your_Webpages.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-04T18:11:16.841Z",
               "EditorCaption": ""
             },
             {
